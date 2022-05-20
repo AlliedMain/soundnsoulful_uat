@@ -18,7 +18,7 @@ botocore==1.19.22
 bottle==0.12.19
 bottle-websocket==0.2.9
 cached-property==1.5.2
-celery==5.0.2
+celery==5.2.2
 cement==3.0.4
 certifi==2019.9.11
 cffi==1.13.2
