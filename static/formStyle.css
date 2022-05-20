@@ -26,13 +26,13 @@ body {
   border-bottom: 1px solid #d9dadc;
 }
 
-.signup_header img {   
+.signup_header img {
   /* height: 80%;
   max-height: 60px;
   min-height: 40px; */
   height: 80%;
   max-width: 200px;
-  min-height: 40px; 
+  min-height: 40px;
   transform: translateX(-8px);
 }
 
@@ -112,7 +112,7 @@ input:focus {
 .btn_sign_up {
   text-align: center;
   background: white;
-  color: #616467;
+  color: #252626;
   border: 2px solid #616467;
   text-decoration: none;
 }
