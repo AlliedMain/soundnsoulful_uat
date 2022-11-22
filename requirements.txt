@@ -111,7 +111,7 @@ pandas==0.25.3
 pathspec==0.8.1
 pdfkit==0.6.1
 phonenumbers==8.12.40
-Pillow==8.1.1
+Pillow==9.3.0
 promise==2.3
 prompt-toolkit==3.0.8
 psycopg2-binary==2.9.2
